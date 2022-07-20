@@ -1,0 +1,37 @@
+body {
+      font-family: 'Outfit', sans-serif;
+      background-color: hsl(212, 45%, 89%);
+}
+
+h3 {
+  color: hsl(218, 44%, 22%);
+}
+
+p {
+  color: hsl(220, 15%, 55%);
+}
+.container {
+  text-align: center;
+  padding: 8% 41% 5%;
+}
+
+.card {
+  border-radius: 5%;
+  background-color: hsl(0, 0%, 100%);
+  }
+
+.QR {
+  width: 90%;
+  border-radius: 5%;
+  margin: 5%;
+}
+
+.text {
+  padding: 5% 10%;
+}
+
+@media (max-width: 430px) {
+  .container {
+    padding: 15% 5% 15%;
+  }
+}
