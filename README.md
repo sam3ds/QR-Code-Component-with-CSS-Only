@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://github.com/sam3ds/QR-Code-Component-with-CSS-Only](https://github.com/sam3ds/QR-Code-Component-with-CSS-Only)
+- Solution URL: [https://github.com/sam3ds/QR-Code-Component-with-CSS-Only](https://github.com/sam3ds/QR-Code-Component-with-CSS-Only)
+- Live Site URL: [https://sam3ds.github.io/QR-Code-Component-with-CSS-Only/](https://sam3ds.github.io/QR-Code-Component-with-CSS-Only/)
 
 ## My process
 
